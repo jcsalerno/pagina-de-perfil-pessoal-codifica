@@ -48,4 +48,3 @@ Este projeto tem como objetivo a criação de uma página de perfil pessoal util
 - [Website](https://jcsalerno.com.br)
 - [Blog](https://jcsalerno.com.br/blog)
 
-# pagina-de-perfil-pessoal-codifica
